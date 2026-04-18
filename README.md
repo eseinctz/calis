@@ -62,7 +62,9 @@ Python 3.6+
 ```bash
 pip install -r requirements.txt
 ```
-
+```bash
+pysmt-install --z3
+```
 ### Clone repository
 
 ```bash
