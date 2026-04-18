@@ -1,0 +1,12 @@
+pandas==1.4.2
+numpy==1.21.6
+scikit-learn==1.0.2
+xgboost==1.5.1
+imbalanced-learn==0.8.0
+matplotlib==3.5.1
+seaborn==0.11.2
+cryptography==3.4.8
+joblib==1.1.0
+tinyec==0.3.0
+pysmt==1.0.0
+ascon==1.1.0
